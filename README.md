@@ -11,11 +11,12 @@ Feel better with your YouTube Music experience by using custom theme.
 
 ## Previews
 
+### 1. Not Too Orange
+🍊 It brings a more neutral look to the app, with a hint of orange. It's not too orange, not too dark like the default of YM.
 <details>
 <summary>
-1. Not Too Orange
+Screenshots
 </summary>
-🍊 It brings a more neutral look to the app, with a hint of orange. It's not too orange, not too dark like the default of YM.
 <img src="./assets/not-too-orange-1.png" width="502">
 <img src="./assets/not-too-orange-2.png" width="190">
 </details>
