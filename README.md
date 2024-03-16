@@ -38,7 +38,7 @@ YouTube Music Desktop App bundled with custom plugins:
 
 ### For web users
 - [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
-A user styles manager for web development
+A user styles manager for web development.
 
 - [UserCSS](https://chromewebstore.google.com/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb)
 A quick and easy way to add custom CSS to the current web site.
